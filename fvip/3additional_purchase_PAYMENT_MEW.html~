@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html>
+ <head>
+        <meta charset="UTF-8">
+        <title>Ты успешно зарегистрировался!</title>
+        <link rel="stylesheet" href="../css/normalize.css">
+        <link rel="stylesheet" href="../css/main.css" media="screen" type="text/css">
+<!--        <link href='http://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
+        <link href='http://fonts.googleapis.com/css?family=Playball' rel='stylesheet' type='text/css'>-->
+        <link rel="stylesheet" href="../css/bootstrap.css">
+        <link rel="stylesheet" href="../css/style-portfolio.css">
+        <link rel="stylesheet" href="../css/picto-foundry-food.css" />
+        <link rel="stylesheet" href="../css/jquery-ui.css">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link href="../css/font-awesome.min.css" rel="stylesheet">
+        <link rel="icon" href="favicon-1.ico" type="image/x-icon">
+    </head>
+                  
+<body>
+<meta charset="UTF-8">
+										<section  id="registrationform"  class="description_content">																				
+										<h2><p>Ты успешно зарегистрировался!</p></h2>
+										</section>										
+										<p class="desc-text1">Скоро мы свяжемся с тобой для подтверждения заявки!</p>
+										<br>
+										<br>
+										<br>
+										<section  id="registrationform"  class="description_content">																														
+										<h1>Возможно, что - нибудь из этого тебя заинтересует;)</h1>
+										</section>
+                    <p class="desc-text1">Наши девочки умеют не только красиво танцевать, но и еще много чего:)	
+                    							<br>
+                    							<br><b>Да, мы прекрасно понимаем, что такой человек, как ты, достоен лучшего и может себе позволить это! 
+                    							<br>Поэтому тебе, королю этого вечера, будет доступно намного больше, чем простым смертным...)
+                    							<br>Мы прекрасно понимаем, что такой властный человек, как ты, не привык себе в чём-либо отказывать, 
+                    							<br>особенно - когда дело касается обворожительных юных девушек!</b>
+                    							<br>
+													<br>Поэтому большая просьба - оформи заявки заранее, чтобы мы могли пригласить достаточно юных прелестниц;)
+													<br>
+													<br><b>Мы очень ценим наших уважаемых гостей, поэтому всех девушек подбираем заранее и самым тщательным образом. 
+													<br>Каждая из них - великолепная танцовщица и массажистка, многие из них хорошо образованы и действительно интересные собеседницы.</b>
+													<br>
+													<br>И кандидатуру каждой из них наша администратор Сонечка лично согласует с тобой, наш уважаемый господин!</p>                     							
+                    							
+													  									
+										
+				<div class="text-content container"> 
+                <div class="col-md-6">
+                    <h1>Расслабляющий массаж</h1>
+                    
+                    <p class="desc-text">	<br>Расслабляющий массаж в исполнении одной, а, может, двух или трёх наших прелестных девушек подарит тебе приятное расслабление, 
+                    прогонит все печали и тревоги, всю усталость рабочей недели и наполнит сексуальной энергией перед ночью, полной страсти!</p>
+                     <br>
+							<br>		<button type="submit" id="submit" name="submit" onclick="javascript:window.location='4__1pay_relax_massage_MEN.html'" ><b>Расслабляющий массаж<br>Одна девушка<br>1500 рублей</b></button> 
+										<button type="submit" id="submit" name="submit" onclick="javascript:window.location='4__2pay_relax_massage_MEN.html'" ><b>Расслабляющий массаж<br>Две девушки<br>3000 рублей</b></button>
+							<br>		<button type="submit" id="submit" name="submit" onclick="javascript:window.location='4__3pay_relax_massage_MEN.html'" ><b>Расслабляющий массаж<br>Три девушки<br>4500 рублей</b></button>
+										<button type="submit" id="submit" name="submit" onclick="javascript:window.location='4__4pay_relax_massage_MEN.html'" ><b>Расслабляющий массаж<br>Четыре девушки<br>6000 рублей</b></button> 														 														 														 							
+							<br> 
+							<br>                   									  
+                </div>
+                <div class="col-md-6">
+                   <div class="img-section">
+                       <img src="../images1/wide picture/in use/massage for men.jpeg" width="100%">
+                   </div>
+                </div>                
+            </div>		
+            
+            <br>
+            <br>		
+           	<div class="text-content container"> 
+                <div class="col-md-6">
+               
+                    <h1>Эротический массаж с гарантированными двумя расслаблениями:)</h1>
+                    <p class="desc-text"><br>Исполняя эротический массаж, своими нежными, чуткими и умелыми руками и губами она пробудит 
+                    	всю твою сексуальную силу и энергию, позволит тебе почувствовать невиданную прежде мощь, а затем сумасшедшим стремительным  
+                    	потоком выплеснет её из твоего кипящего жгучей стратью тела!
+                    	<br>
+                    	<br>А потом всё повторится снова, и, поверь, этот раз будет еще более  головокружительным и сумасшедшим!
+                    	<br>А после этого вновь наполнит тебя дикой энергией, заряда которой хватит, чтобы эта ночь была торжеством твоего сексуального могущества!
+							<br>
+							<br>А теперь представь, что будет, если она будет не одна?...;)                    	
+                    	</p>
+                    	
+                    <br>		<button type="submit" id="submit" name="submit" onclick="javascript:window.location='4.1__1pay_ero_massage_MEN.html'" ><b>Эротический массаж<br>Одна девушка<br>2500 рублей</b></button>
+                    				<button type="submit" id="submit" name="submit" onclick="javascript:window.location='4.1__2pay_ero_massage_MEN.html'" ><b>Эротический массаж<br>Две девушки<br>5000 рублей</b></button>
+                    <br>		<button type="submit" id="submit" name="submit" onclick="javascript:window.location='4.1__3pay_ero_massage_MEN.html'" ><b>Эротический массаж<br>Три девушки<br>7500 рублей</b></button>
+                    				<button type="submit" id="submit" name="submit" onclick="javascript:window.location='4.1__4pay_ero_massage_MEN.html'" ><b>Эротический массаж<br>Четыре девушки<br>10.000 рублей</b></button>                                                            
+                    
+                    <br>
+                    <br>                     									                      
+                </div>
+                <div class="col-md-6">
+                       <img src="../images1/wide picture/in use/erotic massage for man.jpg" width="100%">
+      
+                </div>
+            </div> 	
+            
+            <br>
+            <br>		
+           	<div class="text-content container"> 
+                <div class="col-md-6">
+               
+                    <h1>Приватный танец с эротическим массажем в презервативе:)</h1>
+                    <p class="desc-text"><br>Вообрази себе, какое наслаждение доставит тебе эротический массаж в исполнении умопомрачительных, 
+                    	сексуальных и дико, безумно вожделенных тобой юных прекрасных танцовщиц! 
+                    	<br>
+                    	<br>От такой не сможет устоять никто, даже 
+                    	эти прекрасные ангеского вида создания! И мы очень надеемся, что в тот миг, когда ты больше не сможешь сдерживать свою 
+                    	страть и набросишься на них, ты будешь с ними предельно нежен и аккуратен, и не забудешь надеть презерватив!:))
+							<br>
+							<br>Мы надеемся, что ты не затрахаешь наших нежных принцесс до полусмерти, и в конце они смогут продемонстрировать тебе всё мастерство и нежность своих девичьих ротиков;)) 
+														                    
+                    </p>
+                    <br>		<button type="submit" id="submit" name="submit" onclick="javascript:window.location='4.2__1pay_ero_strip_massage_MEN.html'" ><b>Приват+массаж<br>1 девушка<br>4500 рублей</b></button>
+                    				<button type="submit" id="submit" name="submit" onclick="javascript:window.location='4.2__2pay_ero_strip_massage_MEN.html'" ><b>Приват+массаж<br>2 девушки<br>9000 рублей</b></button> 
+                    <br>		<button type="submit" id="submit" name="submit" onclick="javascript:window.location='4.2__3pay_ero_strip_massage_MEN.html'" ><b>Приват+массаж<br>3 девушки<br>13500 рублей</b></button>
+                    				<button type="submit" id="submit" name="submit" onclick="javascript:window.location='4.2__4pay_ero_strip_massage_MEN.html'" ><b>Приват+массаж<br>4 девушки<br>18000 рублей</b></button>                                                                                                                                      
+                    <br>
+                    <br>                     									                      
+                </div>
+                <div class="col-md-6">
+                       <img src="../images1/wide picture/in use/ero_strip.jpg" width="100%">
+      
+                </div>
+            </div>    
+            
+            <div class="text-content container"> 
+                <div class="col-md-6">
+               
+                    <h1>От заката до рассвета <br>Наложница на всю ночь</h1>
+                    <p class="desc-text"><br>Она будет с тобой так долго, как ты пожелаешь, и сделает всё, чтобы ты этой ночью был счастлив!... 
+																	                    
+                    </p>
+                    <br>		<button type="submit" id="submit" name="submit" onclick="javascript:window.location='4.3__1pay_double_ero_strip_massage_MEN.html'" ><b>1 наложница на всю ночь<br>17000 рублей</b></button>
+                    				<button type="submit" id="submit" name="submit" onclick="javascript:window.location='4.3__2pay_double_ero_strip_massage_MEN.html'" ><b>2 наложницы на всю ночь<br>34000 рублей</b></button>
+                    <br>		<button type="submit" id="submit" name="submit" onclick="javascript:window.location='4.3__3pay_double_ero_strip_massage_MEN.html'" ><b>3 наложницы на всю ночь<br>51000 рублей</b></button>                    		                    
+                    				<button type="submit" id="submit" name="submit" onclick="javascript:window.location='4.3__4pay_double_ero_strip_massage_MEN.html'" ><b>4 наложницы на всю ночь<br>68000 рублей</b></button>                    
+                    <br>
+                    <br>                     									                      
+                </div>
+                <div class="col-md-6">
+                       <img src="../images1/wide picture/in use/all_night girl.jpg" width="100%">
+      
+                </div>
+            </div>         
+
+           
+ 
+                         <!-- Clear -->
+                            <div class="clear"></div>
+                            <br>
+                            <br> 
+                        </form>
+                        <div id="reserveFormResponse"></div>
+</body>
+</html>
