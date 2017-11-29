@@ -1,0 +1,40 @@
+Github:
+
+https://github.com/samabrahms/samabrhams.github.io
+
+
+
+Git global setup
+
+git config --global user.name "michael"
+git config --global user.email "michaelmayer@bulletmail.org"
+
+Create a new repository
+
+git clone https://gitlab.com/michaelmayer/michaelmayer.git
+cd michaelmayer
+touch README.md
+git add README.md
+git commit -m "add README"
+git push -u origin master
+
+Existing folder
+
+cd existing_folder
+git init
+git remote add origin https://gitlab.com/michaelmayer/michaelmayer.git
+git add .
+git commit -m "Initial commit"
+git push -u origin master
+
+Existing Git repository
+
+cd existing_repo
+git remote add origin https://gitlab.com/michaelmayer/michaelmayer.git
+git push -u origin --all
+git push -u origin --tags
+
+Gitlab pages
+
+
+https://docs.gitlab.com/ee/user/project/pages/getting_started_part_two.html

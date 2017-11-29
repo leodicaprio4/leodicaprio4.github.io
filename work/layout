@@ -1,0 +1,10 @@
+#!/bin/bash
+# My first script
+
+echo "Hello World!"
+
+setxkbmap -option grp:switch,grp:alt_shift_toggle us,ru
+
+sleep 2
+
+sudo openvpn Desktop/vpn/443.ovpn
